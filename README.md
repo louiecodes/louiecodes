@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Louis
 
-#### A developer & digital artist. Passionate about creating and learning.
+#### A software developer & digital artist. Passionate about creating and learning.
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning NestJS, Docker
