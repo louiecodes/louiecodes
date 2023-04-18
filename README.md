@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 #### A software developer & digital artist. Passionate about creating and learning.
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning NestJS, Docker
+- 🚀 Working on my personal website
+- 🌱 Learning NestJS, Docker
