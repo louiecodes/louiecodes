@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="center">Hi there 👋, I'm Louis</h2>
+<h3 align="center">Hi there 👋, I'm Louis</h3>
 
 ###
 
-<h2 align="center">A software developer & digital artist. Passionate about creating and learning</h2>
+<h3 align="center">A software developer & digital artist. Passionate about creating and learning</h3>
 
 #### 👩‍💻  About Me
 - 🚀 Working on my personal website
