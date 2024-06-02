@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/29715175?v=4"  />
 </div>
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+-->
 
 <h3 align="center">Hi there 👋, I'm Louis</h3>
 
