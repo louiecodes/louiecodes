@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 #### 👩‍💻  About Me
 - 🛸 I’m currently working on personal projects
-- 🌱 I’m currently learning Docker
-- ⚡ In my free time I like to play videogames, watch movies and hang out with my dog
+- 🌱 I’m currently learning about AI and LLMs
+- ⚡ In my free time, I like to play video games, watch movies, and hang out with my dog
 ###
 
 #### 🛠 Language and tools
